@@ -10,7 +10,7 @@ script:
 - npm run build
 deploy:
   provider: heroku
-  app: eaardal-build-and-deploy-2019
+  app: erikviking-buildndeploy-apr19
   skip_cleanup: true
   api_key:
     secure: JBTMrsHPmNy/VC+dEbkfjR40LexWGS4bLHCE9ErPxsgmtvy1lKJepGbwMHNi2F5bML+/qR600mxG7/Xqf1XZuVEDN+9oWRzkx4VHHozLZdG8SCHWe4z5paAghg+oWJMMRG6eS9UyU/nAcAiPRl+xDvz5yM0ocGEP3vkPDy5b4CDSQfjyWxGVBI3YCGJp7w2tl3fPQ/JWRlfP1fj16LtA6tv1SYs2MVPmMBNYf2ujIzpHOezIUstI1AzpviPS2qiHhQpY+dYzuIGQ1sWrw4wnhj5GdGlx8ODC87XcoAtr28AgkBfJyW4t53a8sg5oMl3U5X1UPkdB6tdek8JrIlxykyiU/qNIfjHev4+P7zvGsPipCxwM9HePEw14UQGSCdJuPc5Oh6CNmMc4brNjJtfRvA/FPyS4xk92yFhpm4dxniXJYIk/NVLbR8F75GjdlpxyadBgMm1tUSdCPANgfl9WrO9z+Sbg/ayz6QhKpFekPMIEn7Aikero0OM+3EOTWc9U1vNGWeDt/slyS+07ASj0Gh0QRafof7LJzUIL49sK6ImV1s1e2tgvNTdL+gc9alA9EV5+Q97aD5r0WTkpOHNtNhW247cqBvad04FO2wbHDXI/BpTcjUGJ+FBzIWXi5AFtyjcDqzDhzPGph+imHXM1Jh60x3D/Fre1PJX/tVoUr5E=
